@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>960002544945-mhitvt8psvet43cgto5arrl5h52fv5ls.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.960002544945-mhitvt8psvet43cgto5arrl5h52fv5ls</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>960002544945-p8rncebn4unrrk5onp9f5s622eusf5r5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClrVvcsmGJNaYzStCiOvKdDWzpzYIAi9s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960002544945</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.inkart-adminApp</string>
+	<key>PROJECT_ID</key>
+	<string>inmakesuserapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inmakesuserapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960002544945:ios:c70c90d9539e3bf7cf4c10</string>
+</dict>
+</plist>
